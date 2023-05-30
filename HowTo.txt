@@ -1,0 +1,2 @@
+Add your roblox's security token in the cookie variable of the script.
+You can also change the wait time for each download by changing the value in the sleep(). 
